@@ -23,7 +23,7 @@ Tested on :
 :heavy_check_mark: Debian
 
 
-:heavy_check_mark: Arch linux
+ :heavy_check_mark: Arch linux
 
 --------------------------------------------
 
