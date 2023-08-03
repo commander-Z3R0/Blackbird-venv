@@ -21,7 +21,6 @@ Access http://127.0.0.1:9797 on the browser
 " -u crash --proxy http://127.0.0.1:8080 "
 
 ## Show all results
-
 By default only found accounts will be shown, however you can use the argument below to see all of them.
 " -u crash --show-all"
 
@@ -29,4 +28,4 @@ By default only found accounts will be shown, however you can use the argument b
 " -u crash --csv"
 
 
-construction! THIS IS FOR STRICTLY EDUCATIONAL PURPOSES, I AM NOT RESPONSIBLE FOR YOUR USE OF THIS !construction
+ 🚧! THIS IS FOR STRICTLY EDUCATIONAL PURPOSES, I AM NOT RESPONSIBLE FOR YOUR USE OF THIS !🚧
