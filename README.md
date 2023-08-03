@@ -25,7 +25,6 @@ Tested on :
 
  :heavy_check_mark: Arch linux
 
---------------------------------------------
 
 #### Clone the repository
 ```shell
