@@ -2,7 +2,7 @@
 echo "                                                                "
 echo "                                                                "
 echo "                                                                 "
-echo "        .---.        .----------- BlackBird-Installer"
+echo "        .---.        .----------- Blackbird-venv"
 echo "       /     \  __  /    ------   ┌──(root㉿commander-z3r0)-[~] "
 echo "      / /     \(  )/    -----     └─# rm -rf ~/.biography "
 echo "     //////    '\/'    ---        -----------------------------"
