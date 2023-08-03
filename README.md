@@ -6,7 +6,7 @@
 
 </br>
 
-<img alt="blackbird-cli" align="center" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/blackbird_printscreen.png">
+<img alt="blackbird-cli" align="center" src="https://raw.githubusercontent.com/command-Z3R0/Blackbird-venv/main/blackbird_venv.png">
 <img alt="blackbird-web" align="center" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/blackbird_web.png">
 
 ## 🚧! THIS IS FOR STRICTLY EDUCATIONAL PURPOSES, I AM NOT RESPONSIBLE FOR YOUR USE OF THIS !🚧
