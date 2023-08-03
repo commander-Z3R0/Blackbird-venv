@@ -1,4 +1,3 @@
-# Blackbird By p1ngul1n0
 <img alt="blackbird-logo" align="left" width="300" height="300" src="https://raw.githubusercontent.com/p1ngul1n0/badges/main/badges/22.png">
 <h1>Blackbird</h1>
 
