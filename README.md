@@ -17,7 +17,7 @@
 --------------------------------------------
 Tested on :
 
-:heavy_check_mark: Kali nethunter
+ :heavy_check_mark: Kali nethunter
 
 
 :heavy_check_mark: Debian
