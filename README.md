@@ -27,3 +27,6 @@ By default only found accounts will be shown, however you can use the argument b
 
 # Export results to CSV file
 " -u crash --csv"
+
+
+construction! THIS IS FOR STRICTLY EDUCATIONAL PURPOSES, I AM NOT RESPONSIBLE FOR YOUR USE OF THIS !construction
