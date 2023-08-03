@@ -14,6 +14,16 @@
 
 
 ## Setup
+--------------------------------------------
+Tested on :
+
+:heavy_check_mark: Kali nethunter
+
+:heavy_check_mark: Arch linux
+
+:heavy_check_mark: Debian
+
+--------------------------------------------
 
 #### Clone the repository
 ```shell
