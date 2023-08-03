@@ -15,7 +15,6 @@
 
 ## Setup
 Tested on :
-
  :heavy_check_mark: Kali nethunter
 
 
