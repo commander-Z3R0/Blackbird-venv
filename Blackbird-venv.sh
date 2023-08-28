@@ -15,8 +15,7 @@ echo "                 '    "
 
 # Check if python3-venv is installed, if not prompt the user to install it manually
 if ! command -v python3 -m venv &>/dev/null; then
-    echo "Python3-venv is not installed. Please install it manually using the following command:"
-    echo "sudo apt install python3.11-venv"
+    echo "Python3-venv is not installed. Please install it manually"
     exit 1
 fi
 
