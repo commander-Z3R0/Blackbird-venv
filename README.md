@@ -10,7 +10,6 @@
 <img alt="blackbird-web" align="center" src="https://raw.githubusercontent.com/p1ngul1n0/src/master/blackbird_web.png">
 
 ##  ⚡ **I have created this script that allows to run this tool in a virtual environment, in an easy and automated way.** ⚡
-### 🚧! THIS IS FOR STRICTLY EDUCATIONAL PURPOSES, I AM NOT RESPONSIBLE FOR YOUR USE OF THIS !🚧
 
 
 ## Setup
@@ -69,3 +68,7 @@ By default only found accounts will be shown, however you can use the argument b
 ```python
 -u crash --csv
 ```
+
+
+___
+### 🚧! THIS IS FOR STRICTLY EDUCATIONAL PURPOSES, I AM NOT RESPONSIBLE FOR YOUR USE OF THIS !🚧
